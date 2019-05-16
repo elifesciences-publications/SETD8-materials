@@ -6,7 +6,7 @@ Shi Chen, Rafal P. Wiewiora, Fanwang Meng, Nicolas Babault, Anqi Ma, Wenyu Yu, K
 
 **The Dynamic Conformational Landscapes of the Protein Methyltransferase SETD8**.  
 
-DOI: 
+DOI: http://dx.doi.org/10.7554/eLife.45403
 
 Complete Folding@home simulation data analyzed for this publication is available via the [Open Science Framework](https://osf.io/2h6p4/).
 
